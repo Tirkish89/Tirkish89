@@ -1,5 +1,7 @@
 # Hi Everyone!
 
+[Für Deutsche version klicken Sie hier](README.de.md)
+
 ![Software Development Engineer in Test/QA ](https://media.licdn.com/dms/image/D4E16AQGYYTFwCCcYxA/profile-displaybackgroundimage-shrink_350_1400/0/1712145141430?e=1728518400&v=beta&t=_iLppbccnu_YYBUtHmgg_Z3wRRdU-ng_zzMuDSht018)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tirkish-mammetsheripov)

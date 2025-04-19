@@ -1,6 +1,6 @@
 # Hi Everyone!
 
-[Für Deutsche version klicken Sie hier](README.de.md)
+[Zur deutschen Version](README.de.md)
 
 ![Software Development Engineer in Test/QA ](https://media.licdn.com/dms/image/D4E16AQGYYTFwCCcYxA/profile-displaybackgroundimage-shrink_350_1400/0/1712145141430?e=1728518400&v=beta&t=_iLppbccnu_YYBUtHmgg_Z3wRRdU-ng_zzMuDSht018)
 
@@ -12,8 +12,8 @@
 ## 🧑‍💻 About Me
 
 
-I am a dedicated and detail-oriented **Software Tester** with  experience in both manual and automated testing. I have a strong understanding of SDLC and STLC, with a proven ability to collaborate effectively in Agile/Scrum environments. I specialize in identifying issues and ensuring software quality through meticulous testing processes and innovative solutions. 
-In addition to my technical skills, I hold a **Master's degree in International Relations** and a **Bachelor's degree in English Language Teaching**, which have equipped me with excellent analytical, communication, and documentation skills. These diverse academic backgrounds enable me to approach problems from various perspectives and communicate effectively with both technical and non-technical stakeholders.
+I am a  detail-oriented **Software Tester** with  experience in both manual and automated testing. I have a strong understanding of SDLC and STLC, with a proven ability to collaborate effectively in Agile/Scrum environments. I identify issues and ensure software quality through meticulous testing processes and innovative solutions. 
+In addition to my technical skills, I hold a **Master's degree in International Relations** and a **Bachelor's degree in English Language Teaching**, which have equipped me with excellent analytical, communication, and documentation skills. These diverse academic backgrounds enable me to approach problems from various perspectives and communicate effectively with technical and non-technical stakeholders.
 
 ---
 

@@ -1,6 +1,6 @@
 # Hallo zusammen!
 
-![Software Development Engineer in Test/QA ](https://media.licdn.com/dms/image/D4E16AQGYYTFwCCcYxA/profile-displaybackgroundimage-shrink_350_1400/0/1712145141430?e=1728518400&v=beta&t=_iLppbccnu_YYBUtHmgg_Z3wRRdU-ng_zzMuDSht018)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tirkish-mammetsheripov)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/Tirkish89)

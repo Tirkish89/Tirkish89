@@ -91,7 +91,7 @@ Relations (with Thesis)**
 ## 🏆 Certifications
 
 - **ISTQB Foundation Level (CTFL)** -  Jul 2024 
-- **TELC Deutsch B1** - Jul 2023 
+- **TELC Deutsch B2** - April 2025 
 
 ---
 
